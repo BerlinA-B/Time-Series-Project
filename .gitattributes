@@ -1,0 +1,9 @@
+*.rda filter=lfs diff=lfs merge=lfs -text
+*.pdf filter=lfs diff=lfs merge=lfs -text
+*.txt filter=lfs diff=lfs merge=lfs -text
+ICPSR_38604/DS0002/38604-0002-Data.rda filter=lfs diff=lfs merge=lfs -text
+ICPSR_38604/DS000/38604-000-Data.rda filter=lfs diff=lfs merge=lfs -text
+ICPSR_38604/DS0001/38604-000-Data.rda filter=lfs diff=lfs merge=lfs -text
+ICPSR_38604/DS0003/38604-0003-Data.rda filter=lfs diff=lfs merge=lfs -text
+ICPSR_38604/DS0001/38604-0001-Data.rda filter=lfs diff=lfs merge=lfs -text
+**/*.rda filter=lfs diff=lfs merge=lfs -text
